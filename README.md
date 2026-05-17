@@ -1,119 +1,20 @@
-# Shahnawaj-Protfolio
-## Hi, I'm Md. Shahnawaj 👋
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
 
-## Senior Engineering Professional | Information Systems Specialist | Data & AI Enthusiast
+.bento-item {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 24px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
 
-📍 Los Angeles, California  
-📧 shahnawaj.rupsha@gmail.com  
-
----
-
-## 🚀 About Me
-
-Experienced engineering and operations leader with 10+ years in:
-
-- LPG & Energy Infrastructure
-- Industrial Plant Operations
-- Data Engineering
-- Machine Learning & AI
-- Cloud & Big Data Systems
-
-Currently pursuing:
-
-🎓 MS in Information Systems  
-Pacific States University, Los Angeles
-
----
-
-## 💻 Technical Skills
-
-### Programming
-- Python
-- Java
-- C / C++
-- JavaScript
-- HTML / CSS
-- R
-- SAS
-
-### Data Engineering & Cloud
-- MySQL
-- Hadoop
-- Apache Spark
-- Kafka
-- Snowflake
-- Databricks
-- Google BigQuery
-- AWS (S3, EMR, Glue, Lambda)
-- Apache Airflow
-
-### AI / Machine Learning
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- MLflow
-- CNN Image Classification
-- AutoML
-
-### BI & Visualization
-- Power BI
-- Tableau
-- Looker Studio
-- Grafana
-- Kibana
-
----
-
-## 🏭 Industrial Experience
-
-### Delta LPG Limited
-**Head of Plant / Executive Operations Leader**  
-2016 – 2024
-
-- Managed multi-site LPG infrastructure
-- Led greenfield industrial projects
-- Implemented KPI-based operational analytics
-- Achieved $1M+ cost savings through optimization
-
----
-
-## 📚 Publications
-
-### Deep Hybrid Models for Multi-Class Brain Tumor Classification
-CNN + Transformers + Explainable AI
-
-### Rethinking Requirement Analysis for AI-Based Projects
-
----
-
-## 🏆 Certifications & Memberships
-
-- PMP Training
-- Certified Storage Tank Calibrator
-- IEEE Associate Member
-- ASME Member
-- NFPA Member
-- ASTM International Member
-
----
-
-## 🌎 Interests
-
-- Artificial Intelligence
-- Big Data Systems
-- Industrial Automation
-- Energy Infrastructure
-- Cloud Computing
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn
-- Google Scholar
-- ORCID
-
----
-
-⭐ Always interested in collaboration on AI, Data Engineering, and Industrial Technology projects.
+.bento-item:hover {
+  border-color: rgba(59, 130, 246, 0.5); /* Subtle color glow */
+  transform: translateY(-4px);
+}
