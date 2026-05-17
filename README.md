@@ -1,122 +1,76 @@
-# Shahnawaj-Protfolio
-## Hi, I'm Md. Shahnawaj 👋
-📍 Los Angeles, California
+# 👨‍💻 Md. Shahnawaj
 
-📧 shahnawaj.rupsha@gmail.com
-📱 cell: +1 347 902 2790
-
-
-## Senior Engineering Professional | Information Systems Specialist | Data & AI Enthusiast
-
+**Senior Engineering Professional | Information Systems Specialist | Data & AI Enthusiast**  
+📍 Los Angeles, California  
+📧 [shahnawaj.rupsha@gmail.com](mailto:shahnawaj.rupsha@gmail.com) | 📱 +1 347 902 2790
 
 ---
 
 ## 🚀 About Me
 
-Experienced engineering and operations leader with 10+ years in:
+I am an experienced engineering and operations leader with over **10 years of experience** bridging the gap between heavy industrial infrastructure and cutting-edge data systems. My expertise spans managing multi-site energy plants to building scalable data pipelines and machine learning models.
 
-- LPG & Energy Infrastructure
-- Industrial Plant Operations
-- Data Engineering
-- Machine Learning & AI
-- Cloud & Big Data Systems
-
-Currently pursuing:
-
-🎓 MS in Information Systems  
-Pacific States University, Los Angeles
+🎓 **Current Focus:** Pursuing an **MS in Information Systems** at Pacific States University, Los Angeles, to further synthesize industrial automation with enterprise cloud architecture.
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Ecosystem
 
-### Programming
-- Python
-- Java
-- C / C++
-- JavaScript
-- HTML / CSS
-- R
-- SAS
-
-### Data Engineering & Cloud
-- MySQL
-- Hadoop
-- Apache Spark
-- Kafka
-- Snowflake
-- Databricks
-- Google BigQuery
-- AWS (S3, EMR, Glue, Lambda)
-- Apache Airflow
-
-### AI / Machine Learning
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- MLflow
-- CNN Image Classification
-- AutoML
-
-### BI & Visualization
-- Power BI
-- Tableau
-- Looker Studio
-- Grafana
-- Kibana
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming** | `Python` `Java` `C/C++` `JavaScript` `HTML/CSS` `R` `SAS` |
+| **Data Engineering & Cloud** | `MySQL` `Hadoop` `Apache Spark` `Kafka` `Snowflake` `Databricks` `Google BigQuery` `AWS (S3, EMR, Glue, Lambda)` `Apache Airflow` |
+| **AI / Machine Learning** | `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `MLflow` `CNN Image Classification` `AutoML` |
+| **BI & Visualization** | `Power BI` `Tableau` `Looker Studio` `Grafana` `Kibana` |
 
 ---
 
-## 🏭 Industrial Experience
+## 🏭 Industrial Leadership Highlights
 
-### Delta LPG Limited
-**Head of Plant / Executive Operations Leader**  
-2016 – 2024
-
-- Managed multi-site LPG infrastructure
-- Led greenfield industrial projects
-- Implemented KPI-based operational analytics
-- Achieved $1M+ cost savings through optimization
+### **Delta LPG Limited**
+**Head of Plant / Executive Operations Leader** | *2016 – 2024*
+*   **Infrastructure Management:** Spearheaded operations for multi-site LPG infrastructure and led greenfield industrial projects from conception to completion.
+*   **Data-Driven Optimization:** Implemented KPI-based operational analytics and data tracking, resulting in **$1M+ in cost savings** through process optimization.
 
 ---
 
-## 📚 Publications
+## 📚 Publications & Research
 
-### Deep Hybrid Models for Multi-Class Brain Tumor Classification
-CNN + Transformers + Explainable AI
-
-### Rethinking Requirement Analysis for AI-Based Projects
-
----
-
-## 🏆 Certifications & Memberships
-
-- PMP Training
-- Certified Storage Tank Calibrator
-- IEEE Associate Member
-- ASME Member
-- NFPA Member
-- ASTM International Member
+*   **Deep Hybrid Models for Multi-Class Brain Tumor Classification**
+    *   *Focus:* CNN + Transformers + Explainable AI (XAI)
+*   **Rethinking Requirement Analysis for AI-Based Projects**
+    *   *Focus:* Project management frameworks adapted for non-deterministic AI lifecycles.
 
 ---
 
-## 🌎 Interests
+## 🏆 Certifications & Professional Memberships
 
-- Artificial Intelligence
-- Big Data Systems
-- Industrial Automation
-- Energy Infrastructure
-- Cloud Computing
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn
-- Google Scholar
-- ORCID
+*   **Project Management:** PMP Trained
+*   **Technical Expert:** Certified Storage Tank Calibrator
+*   **Professional Societies:** 
+    *   IEEE Associate Member
+    *   ASME Member (American Society of Mechanical Engineers)
+    *   NFPA Member (National Fire Protection Association)
+    *   ASTM International Member
 
 ---
 
-⭐ Always interested in collaboration on AI, Data Engineering, and Industrial Technology projects.
+## 🎯 Interests & Focus Areas
+
+*   🤖 **Artificial Intelligence & Deep Learning**
+*   🟪 **Big Data Systems & Cloud Architecture**
+*   ⚙️ **Industrial Automation & Industry 4.0**
+*   ⚡ **Energy Infrastructure Optimization**
+
+---
+
+## 🤝 Connect With Me
+
+Let's collaborate on AI, Data Engineering, or Industrial Technology projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com) 
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+
+---
+⭐️ *Always open to interesting conversations, research opportunities, and professional collaborations.*
