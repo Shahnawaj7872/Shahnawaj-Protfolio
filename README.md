@@ -68,7 +68,7 @@ I am an experienced engineering and operations leader with over **10 years of ex
 
 Let's collaborate on AI, Data Engineering, or Industrial Technology projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahnawaj-a4765256?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com) 
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
 
