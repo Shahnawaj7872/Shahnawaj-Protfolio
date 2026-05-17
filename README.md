@@ -70,7 +70,7 @@ Let's collaborate on AI, Data Engineering, or Industrial Technology projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahnawaj-a4765256?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=EkQADzUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4140-2765)
 
 ---
 ⭐️ *Always open to interesting conversations, research opportunities, and professional collaborations.*
