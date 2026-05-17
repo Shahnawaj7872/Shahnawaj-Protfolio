@@ -1,11 +1,12 @@
 # Shahnawaj-Protfolio
 ## Hi, I'm Md. Shahnawaj 👋
+📍 Los Angeles, California
+📧 shahnawaj.rupsha@gmail.com
+📱 cell: +1 347 902 2790
+
 
 ## Senior Engineering Professional | Information Systems Specialist | Data & AI Enthusiast
 
-📍 Los Angeles, California  
-📧 shahnawaj.rupsha@gmail.com  
-cell:+13479022790
 
 ---
 
