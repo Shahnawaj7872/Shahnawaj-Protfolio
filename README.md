@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am an experienced engineering and operations leader with over **10 years of experience** bridging the gap between heavy industrial infrastructure and cutting-edge data systems. My expertise spans managing multi-site energy plants to building scalable data pipelines and machine learning models.
+I am an experienced engineering and operations leader with over **14 years of experience** bridging the gap between heavy industrial infrastructure and cutting-edge data systems. My expertise spans managing multi-site energy plants to building scalable data pipelines and machine learning models.
 
 🎓 **Current Focus:** Pursuing an **MS in Information Systems** at Pacific States University, Los Angeles, to further synthesize industrial automation with enterprise cloud architecture.
 
